@@ -88,18 +88,37 @@ EVE-OS-Node-01 VM
 
 Screenshots are stored in the '/screenshots' folder.
 
-Recommended screenshots:
+## 📸 Screenshots
 
-1. 'kubectl get nodes'
-2. 'kubectl get pods'
-3. 'kubectl get svc'
-4. Swagger UI in browser
-5. FastAPI health endpoint
-6. CrashLoopBackOff error
-7. Pod logs showing root cause
-8. Fixed deployment running
-9. EVE-OS boot screen
-10. VirtualBox VM inventory
+### Kubernetes Nodes
+![Nodes](screenshots/01-kubectl-get-nodes.png)
+
+### Kubernetes Pods
+![Pods](screenshots/02-kubectl-get-pods.png)
+
+### Services
+![Services](screenshots/03-kubectl-get-svc.png)
+
+### Swagger UI
+![Swagger](screenshots/04-swagger-ui-browser.png)
+
+### FastAPI Health
+![Health](screenshots/05-fastapi-health-endpoint.png)
+
+### CrashLoopBackOff Error
+![Crash](screenshots/06-crashloopbackoff-error.png)
+
+### Root Cause Logs
+![Logs](screenshots/07-pod-logs-root-cause.png)
+
+### Fixed Deployment
+![Fixed](screenshots/08-fixed-deployment-running.png)
+
+### EVE-OS Boot
+![EVE](screenshots/09-eve-os-boot-screen.png)
+
+### VirtualBox Setup
+![VM](screenshots/10-virtualbox-vm-inventory.png)
 
 
 ##   Resume Summary
