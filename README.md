@@ -120,6 +120,16 @@ Screenshots are stored in the '/screenshots' folder.
 ### VirtualBox Setup
 ![VM](screenshots/10-virtualbox-vm-inventory.png)
 
+## 🔍 Troubleshooting Highlight
+
+Resolved a CrashLoopBackOff caused by a Python import error:
+
+Before:
+from fastpai import FastAPI
+
+After:
+from fastapi import FastAPI
+
 
 ##   Resume Summary
 
